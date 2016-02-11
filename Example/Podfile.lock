@@ -1,0 +1,14 @@
+PODS:
+  - DYARippleView (0.1.0)
+
+DEPENDENCIES:
+  - DYARippleView (from `../`)
+
+EXTERNAL SOURCES:
+  DYARippleView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DYARippleView: 67c5c798492ef8ce683cbf9fa280ba22c50e54c4
+
+COCOAPODS: 0.39.0

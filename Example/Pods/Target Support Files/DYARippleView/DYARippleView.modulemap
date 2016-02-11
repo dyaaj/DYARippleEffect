@@ -1,0 +1,6 @@
+framework module DYARippleView {
+  umbrella header "DYARippleView-umbrella.h"
+
+  export *
+  module * { export * }
+}
