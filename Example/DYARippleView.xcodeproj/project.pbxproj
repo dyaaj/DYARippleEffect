@@ -58,7 +58,7 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		68F0EEF29AFA1C573C123DAF /* Pods-DYARippleView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DYARippleView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-DYARippleView_Tests/Pods-DYARippleView_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		6C5531012E7DA576B74423EF /* DYARippleView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = DYARippleView.podspec; path = ../DYARippleView.podspec; sourceTree = "<group>"; };
+		6C5531012E7DA576B74423EF /* DYARippleEffect.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = DYARippleEffect.podspec; path = ../DYARippleEffect.podspec; sourceTree = "<group>"; };
 		732695A7523F8B67B68002DA /* Pods-DYARippleView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DYARippleView_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DYARippleView_Tests/Pods-DYARippleView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		A53ED63DE18E3DBCC2765638 /* Pods_DYARippleView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DYARippleView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -175,7 +175,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				6C5531012E7DA576B74423EF /* DYARippleView.podspec */,
+				6C5531012E7DA576B74423EF /* DYARippleEffect.podspec */,
 				C592CE0D40EBDA5A52899608 /* README.md */,
 				C59B743000320A522D4EF4F1 /* LICENSE */,
 			);

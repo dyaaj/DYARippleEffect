@@ -1,0 +1,6 @@
+framework module DYARippleEffect {
+  umbrella header "DYARippleEffect-umbrella.h"
+
+  export *
+  module * { export * }
+}

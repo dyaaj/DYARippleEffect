@@ -1,14 +1,14 @@
 PODS:
-  - DYARippleView (0.1.0)
+  - DYARippleEffect (0.1.0)
 
 DEPENDENCIES:
-  - DYARippleView (from `../`)
+  - DYARippleEffect (from `../`)
 
 EXTERNAL SOURCES:
-  DYARippleView:
+  DYARippleEffect:
     :path: "../"
 
 SPEC CHECKSUMS:
-  DYARippleView: 67c5c798492ef8ce683cbf9fa280ba22c50e54c4
+  DYARippleEffect: 02fbecd4dd4f62a76b921238b057a7fa4d2586b8
 
 COCOAPODS: 0.39.0

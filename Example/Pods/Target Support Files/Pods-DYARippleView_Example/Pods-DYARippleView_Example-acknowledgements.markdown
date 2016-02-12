@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## DYARippleView
+## DYARippleEffect
 
 Copyright (c) 2016 david.yang <david.yang@backelite.com>
 

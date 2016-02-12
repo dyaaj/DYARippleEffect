@@ -4,12 +4,12 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>DYARippleView-DYARippleView.xcscheme</key>
+		<key>DYARippleEffect-DYARippleView.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>DYARippleView.xcscheme</key>
+		<key>DYARippleEffect.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -27,22 +27,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>264DC507254079E3D3A75D6E2F065A0F</key>
+		<key>50DE61FA8266FA8320870CF7FAE9BBA6</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5662A789A4A166BEA74A40766BF9FB11</key>
+		<key>56DE026D90728E3D9C51832A70EB94BB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>78075011E412C38C4AE6D8AEBCEE865E</key>
+		<key>80496E53069809FE175F5C452BDDDB1A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>AF8364EF9971A18CFBF9FF86FA568782</key>
+		<key>CBC6C1D330F167B9A3BAF73A72EAC3FC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
