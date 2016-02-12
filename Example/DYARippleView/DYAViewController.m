@@ -12,6 +12,7 @@
 @interface DYAViewController ()
 
 @property (weak, nonatomic) IBOutlet UIView *rippleView;
+@property (weak, nonatomic) IBOutlet UIButton *rippleButton;
 
 @end
 
@@ -30,18 +31,30 @@
 - (void)viewDidAppear:(BOOL)animated {
     [super viewDidAppear:animated];
 
-    self.rippleView.layer.borderColor = [UIColor redColor].CGColor;
+    self.rippleView.layer.borderColor = [UIColor blueColor].CGColor;
     self.rippleView.layer.borderWidth = 1.;
     self.rippleView.layer.cornerRadius = self.rippleView.frame.size.height / 2.;
+    [NSTimer scheduledTimerWithTimeInterval:0.5 target:self selector:@selector(doRipple) userInfo:nil repeats:YES];
 
-    self.rippleView.rippleColor = [UIColor redColor];
-    self.rippleView.rippleTrailColor = [[UIColor orangeColor] colorWithAlphaComponent:0.6];
-
-    [NSTimer scheduledTimerWithTimeInterval:1. target:self selector:@selector(doRipple) userInfo:nil repeats:YES];
+    self.rippleButton.layer.cornerRadius = self.rippleButton.frame.size.width / 2.;
+    self.rippleButton.layer.borderColor = [UIColor cyanColor].CGColor;
+    self.rippleButton.layer.borderWidth = 1.0f;
 }
 
 - (void)doRipple {
-    [self.rippleView dya_ripple];
+    [self.rippleView dya_rippleWithSettings:@{ DYARippleEffectColor : [UIColor magentaColor],
+                                               DYARippleEffectTrailColor : [[UIColor magentaColor] colorWithAlphaComponent:0.6],
+                                               DYARippleEffectLineWidth : @1.,
+                                               DYARippleEffectAnimationDuration : @2.,
+                                               DYARippleEffectSize : @2 }];
+}
+
+- (IBAction)buttonTapped:(id)sender {
+    [self.rippleButton dya_rippleWithSettings:@{ DYARippleEffectColor : [UIColor blueColor],
+                                                 DYARippleEffectTrailColor : [[UIColor redColor] colorWithAlphaComponent:0.6],
+                                                 DYARippleEffectLineWidth : @1.,
+                                                 DYARippleEffectAnimationDuration : @2.,
+                                                 DYARippleEffectSize : @2 }];
 }
 
 @end

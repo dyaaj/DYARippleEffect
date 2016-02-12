@@ -8,11 +8,14 @@
 
 #import <UIKit/UIKit.h>
 
+extern NSString *const DYARippleEffectColor;
+extern NSString *const DYARippleEffectTrailColor;
+extern NSString *const DYARippleEffectLineWidth;
+extern NSString *const DYARippleEffectAnimationDuration;
+extern NSString *const DYARippleEffectSize;
+
 @interface UIView (DYARippleEffect)
 
-@property (strong, nonatomic) UIColor *rippleColor;
-@property (strong, nonatomic) UIColor *rippleTrailColor;
-
-- (void)dya_ripple;
+- (void)dya_rippleWithSettings:(NSDictionary *)settings;
 
 @end

@@ -18,21 +18,37 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="j0V-JD-3ld">
-                                <rect key="frame" x="200" y="200" width="200" height="200"/>
+                                <rect key="frame" x="275" y="275" width="50" height="50"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="200" id="MHX-MQ-eFI"/>
-                                    <constraint firstAttribute="height" constant="200" id="vCf-hh-lLg"/>
+                                    <constraint firstAttribute="width" constant="50" id="MHX-MQ-eFI"/>
+                                    <constraint firstAttribute="height" constant="50" id="vCf-hh-lLg"/>
                                 </constraints>
                             </view>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="INQ-Cp-KRP">
+                                <rect key="frame" x="275" y="20" width="50" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="KG8-E6-VAj"/>
+                                    <constraint firstAttribute="width" constant="50" id="YCN-BE-4YR"/>
+                                </constraints>
+                                <state key="normal" title="Tap">
+                                    <color key="titleColor" red="0.035255087230447811" green="0.14084709193798739" blue="0.45762310606060608" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="buttonTapped:" destination="whP-gf-Uak" eventType="touchUpInside" id="bU3-oP-8mb"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
+                            <constraint firstItem="INQ-Cp-KRP" firstAttribute="top" secondItem="uEw-UM-LJ8" secondAttribute="bottom" id="7Cc-RQ-aCa"/>
+                            <constraint firstItem="INQ-Cp-KRP" firstAttribute="centerX" secondItem="TpU-gO-2f1" secondAttribute="centerX" id="arJ-sp-iwN"/>
                             <constraint firstItem="j0V-JD-3ld" firstAttribute="centerY" secondItem="TpU-gO-2f1" secondAttribute="centerY" id="hU0-Gr-JUZ"/>
                             <constraint firstItem="j0V-JD-3ld" firstAttribute="centerX" secondItem="TpU-gO-2f1" secondAttribute="centerX" id="me0-pv-Fke"/>
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="rippleButton" destination="INQ-Cp-KRP" id="cxv-dk-koM"/>
                         <outlet property="rippleView" destination="j0V-JD-3ld" id="yi9-PL-yMU"/>
                     </connections>
                 </viewController>
