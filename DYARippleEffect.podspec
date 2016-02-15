@@ -16,8 +16,9 @@ Pod::Spec.new do |s|
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
-  s.description      = <<-DESC
-                       DESC
+#  s.description      = <<-DESC
+#			Add a Tinker-like ripple effect to any view on your app, wether it is UIButton or any subclass of UIView.
+#                       DESC
 
   s.homepage         = "https://github.com/dyaaj/DYARippleEffect.git"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
