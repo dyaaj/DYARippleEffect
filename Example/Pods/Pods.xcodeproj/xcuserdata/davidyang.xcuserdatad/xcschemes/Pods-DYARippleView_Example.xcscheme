@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '47C14BCBBDCCF189CC17AD3C'
+               BlueprintIdentifier = '2E886B6BE978E1C47882DA90'
                BlueprintName = 'Pods-DYARippleView_Example'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Pods_DYARippleView_Example.framework'>

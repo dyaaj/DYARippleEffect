@@ -8,17 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		0D7C5F4518BF85E044731BE391ADF8EB /* Pods-DYARippleView_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 45B0A33D2D6C925FF4724C94F84C7554 /* Pods-DYARippleView_Tests-dummy.m */; };
-		184225BED3D2AE85AE2D56759FE46072 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
-		18846372C09E938BA74685B5DA9CC5A5 /* DYARippleEffect-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6924B4AF5FC5B139127FAF35F8DA93B7 /* DYARippleEffect-dummy.m */; };
+		2CF6610364748ABA87FD36D4530882A5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
 		311C4D81B0A0B116718CE06A5E7B0B7E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
+		381F86AD316CE47F7D4C44950C7D2BEF /* DYARippleEffect.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 0E6E499B7DD743A132CA890924C9E2C5 /* DYARippleEffect.bundle */; };
 		49FE3C85D843697FCB118121AE9FE751 /* Pods-DYARippleView_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 43BF28691233A58FF5E725C6A8B82856 /* Pods-DYARippleView_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6BF074AA465523A1C415F02D4F6CB107 /* DYARippleView.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 03A84BEF81509FC1C17062A94F9BAA3B /* DYARippleView.bundle */; };
-		6E88E6530ADB5E5EBE878BB30EB08622 /* UIView+DYARippleEffect.h in Headers */ = {isa = PBXBuildFile; fileRef = AF419D327AF7ABD8525675AFEDEEB409 /* UIView+DYARippleEffect.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		7160EF59DD7D7A3BA4FD8B596F49AEBE /* DYARippleEffect-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FD395F0C718BC404C6C91B5EC2FDD32 /* DYARippleEffect-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		740E2EE7A18BF5EA3714C52AF2D9FD05 /* DYARippleEffect-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FD395F0C718BC404C6C91B5EC2FDD32 /* DYARippleEffect-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9D2FDE983AE7088CF9138726E47D7D1B /* Pods-DYARippleView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F611B05982A50C9D0670DD6916D065BC /* Pods-DYARippleView_Example-dummy.m */; };
 		B6CD2645839CCD3BC24DC260841835A2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
-		B84CCD4BF8CAC65E663AB0B7D75C4A9E /* UIView+DYARippleEffect.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C42B06E5373C7290DCC0C6477679CE4 /* UIView+DYARippleEffect.m */; };
+		DA4CC7E7E83AFB9459C8F24842D2F31E /* UIView+DYARippleEffect.h in Headers */ = {isa = PBXBuildFile; fileRef = AF419D327AF7ABD8525675AFEDEEB409 /* UIView+DYARippleEffect.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DE9B05703ECC184D2CE457FD13961244 /* Pods-DYARippleView_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3854273194A393766534F73D2A813965 /* Pods-DYARippleView_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F7F74E3CDD1CA670CD23F3C76A5DA632 /* DYARippleEffect-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6924B4AF5FC5B139127FAF35F8DA93B7 /* DYARippleEffect-dummy.m */; };
+		F9D33E33BB9A9DF2B9E0577DB44D61FB /* UIView+DYARippleEffect.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C42B06E5373C7290DCC0C6477679CE4 /* UIView+DYARippleEffect.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,55 +26,55 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = CBC6C1D330F167B9A3BAF73A72EAC3FC;
+			remoteGlobalIDString = B13E8FA97229B0FC721B94613806A496;
 			remoteInfo = DYARippleEffect;
-		};
-		9B002A26B4F22117EB6A4CDE9B28CFC7 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 50DE61FA8266FA8320870CF7FAE9BBA6;
-			remoteInfo = "DYARippleEffect-DYARippleView";
 		};
 		AE3964C961EBB42671DC7D00A7518E16 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = CBC6C1D330F167B9A3BAF73A72EAC3FC;
+			remoteGlobalIDString = B13E8FA97229B0FC721B94613806A496;
 			remoteInfo = DYARippleEffect;
+		};
+		C631027BBD42CA71096AC412AB52FB3B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1405C5A270C280267ECDAF8E08C4D367;
+			remoteInfo = "DYARippleEffect-DYARippleEffect";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		028E6A21AB2487CB5B2ED1A954757FA0 /* Pods-DYARippleView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DYARippleView_Example.release.xcconfig"; sourceTree = "<group>"; };
-		03A84BEF81509FC1C17062A94F9BAA3B /* DYARippleView.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DYARippleView.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C42B06E5373C7290DCC0C6477679CE4 /* UIView+DYARippleEffect.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIView+DYARippleEffect.m"; sourceTree = "<group>"; };
+		0E6E499B7DD743A132CA890924C9E2C5 /* DYARippleEffect.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DYARippleEffect.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		1789844670455C0A66A486BC17EC4B4B /* Pods-DYARippleView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DYARippleView_Example-frameworks.sh"; sourceTree = "<group>"; };
 		1FD395F0C718BC404C6C91B5EC2FDD32 /* DYARippleEffect-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DYARippleEffect-umbrella.h"; sourceTree = "<group>"; };
-		37BF3BE4F17CD319D2ED0F5B529BA686 /* Pods_DYARippleView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DYARippleView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3854273194A393766534F73D2A813965 /* Pods-DYARippleView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DYARippleView_Example-umbrella.h"; sourceTree = "<group>"; };
 		3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		43BF28691233A58FF5E725C6A8B82856 /* Pods-DYARippleView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DYARippleView_Tests-umbrella.h"; sourceTree = "<group>"; };
 		44881455096A0817E12515F453D992E8 /* DYARippleEffect.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = DYARippleEffect.modulemap; sourceTree = "<group>"; };
 		45B0A33D2D6C925FF4724C94F84C7554 /* Pods-DYARippleView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DYARippleView_Tests-dummy.m"; sourceTree = "<group>"; };
+		5922EE530EBDEDCF58C2C25D8F886E2F /* DYARippleEffect.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DYARippleEffect.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		63C78C55FD330C21445B642231382C82 /* Pods-DYARippleView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DYARippleView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		6924B4AF5FC5B139127FAF35F8DA93B7 /* DYARippleEffect-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "DYARippleEffect-dummy.m"; sourceTree = "<group>"; };
+		69DBFDA9DD69297CCF4F8BAB69431C6F /* Pods_DYARippleView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DYARippleView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AC08F0B3A9C8610BC299CFA1DB841AE /* Pods-DYARippleView_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DYARippleView_Example-resources.sh"; sourceTree = "<group>"; };
 		6B53F662AAFF7DD41A99C461EADD2050 /* DYARippleEffect-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DYARippleEffect-prefix.pch"; sourceTree = "<group>"; };
 		6C495096B5A96193C1563359A72AAA9C /* Pods-DYARippleView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-DYARippleView_Tests.modulemap"; sourceTree = "<group>"; };
 		6E66EFAEAE06F04DDA81395CE9D915D9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		85DA8B310164010A8FD72A04C887ADCA /* DYARippleEffect.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DYARippleEffect.xcconfig; sourceTree = "<group>"; };
 		9A766CD0D2BD026B2EDA38A269848286 /* Pods-DYARippleView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DYARippleView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		A6AFCBA4F2CF6CFC1FA0350278E0300E /* DYARippleEffect.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DYARippleEffect.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF419D327AF7ABD8525675AFEDEEB409 /* UIView+DYARippleEffect.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+DYARippleEffect.h"; sourceTree = "<group>"; };
 		B18CBDC002CB31DD65140B262112B6A9 /* Pods-DYARippleView_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DYARippleView_Tests-resources.sh"; sourceTree = "<group>"; };
 		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		CE83B0D0744D23AD2BAC785291C2C487 /* Pods_DYARippleView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DYARippleView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D01456A563C9C08E60D380E59C2CD6BA /* Pods-DYARippleView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-DYARippleView_Example.modulemap"; sourceTree = "<group>"; };
 		D6AD02EBD8BFA683FE613339199F952A /* Pods-DYARippleView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DYARippleView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		DD4760FE8957EF0018990C041184DC36 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E47EB8A18E16FDBD2919BF34A5D91736 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E59325D883B778E302A50C80829E41C5 /* Pods-DYARippleView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DYARippleView_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		E5B16BA59989FD67A254B28BA1B8D09F /* Pods_DYARippleView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DYARippleView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6A4D3B652C939D05534740F6828341D /* Pods-DYARippleView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DYARippleView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		F1852A55FAD483BD98D0B78F014C066A /* Pods-DYARippleView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DYARippleView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		F5EF878189805369C29DC9BECE018C8E /* Pods-DYARippleView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DYARippleView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -91,6 +91,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		60F5715C52FC0CB6009A06A6E5C0F50B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		6DFBBBDD1BAF02BB62CF0BB3577C0837 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -99,18 +106,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		AB2692A009FFCC7AB4364E0821CDD08A /* Frameworks */ = {
+		D64B160245A5E0317EAAC96F2CA62B97 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				184225BED3D2AE85AE2D56759FE46072 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F1CC697809CA43C01A6BBB6BF284C11F /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				2CF6610364748ABA87FD36D4530882A5 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -158,20 +158,9 @@
 				BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */,
 				3B7E6D10FA623A687E643ED3900A9E89 /* Development Pods */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
-				8DCF1546E27CE4054CD741A63A0FADB4 /* Products */,
+				C1CBD6EB9F261E3D681A09EF87ABDA84 /* Products */,
 				93BBFD3482CFAA2B324AB38F75871440 /* Targets Support Files */,
 			);
-			sourceTree = "<group>";
-		};
-		8DCF1546E27CE4054CD741A63A0FADB4 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				A6AFCBA4F2CF6CFC1FA0350278E0300E /* DYARippleEffect.framework */,
-				03A84BEF81509FC1C17062A94F9BAA3B /* DYARippleView.bundle */,
-				37BF3BE4F17CD319D2ED0F5B529BA686 /* Pods_DYARippleView_Example.framework */,
-				CE83B0D0744D23AD2BAC785291C2C487 /* Pods_DYARippleView_Tests.framework */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		93BBFD3482CFAA2B324AB38F75871440 /* Targets Support Files */ = {
@@ -235,6 +224,17 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		C1CBD6EB9F261E3D681A09EF87ABDA84 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0E6E499B7DD743A132CA890924C9E2C5 /* DYARippleEffect.bundle */,
+				5922EE530EBDEDCF58C2C25D8F886E2F /* DYARippleEffect.framework */,
+				E5B16BA59989FD67A254B28BA1B8D09F /* Pods_DYARippleView_Example.framework */,
+				69DBFDA9DD69297CCF4F8BAB69431C6F /* Pods_DYARippleView_Tests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		F389AE6C0DEFDE0272EA21CAB6BF6CE2 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -260,12 +260,12 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BBE5589BBF141E7845AE09A9D25618CA /* Headers */ = {
+		9BD4D578E78D39399D6F2BEBEF756962 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7160EF59DD7D7A3BA4FD8B596F49AEBE /* DYARippleEffect-umbrella.h in Headers */,
-				6E88E6530ADB5E5EBE878BB30EB08622 /* UIView+DYARippleEffect.h in Headers */,
+				740E2EE7A18BF5EA3714C52AF2D9FD05 /* DYARippleEffect-umbrella.h in Headers */,
+				DA4CC7E7E83AFB9459C8F24842D2F31E /* UIView+DYARippleEffect.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,21 +280,21 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		50DE61FA8266FA8320870CF7FAE9BBA6 /* DYARippleEffect-DYARippleView */ = {
+		1405C5A270C280267ECDAF8E08C4D367 /* DYARippleEffect-DYARippleEffect */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 075AFD150F807CA8B00A5557E7D94A20 /* Build configuration list for PBXNativeTarget "DYARippleEffect-DYARippleView" */;
+			buildConfigurationList = 35730291B934AF6D697F946378D90A50 /* Build configuration list for PBXNativeTarget "DYARippleEffect-DYARippleEffect" */;
 			buildPhases = (
-				AC510FFD63F9C5C45F4D4BEA31E5755B /* Sources */,
-				F1CC697809CA43C01A6BBB6BF284C11F /* Frameworks */,
-				847A3C8AC76518A5D3C8600AFA630602 /* Resources */,
+				2F2C3653EC4E3FA3D46C60698870BB81 /* Sources */,
+				60F5715C52FC0CB6009A06A6E5C0F50B /* Frameworks */,
+				4B09D7E3B4219051269FDC662D798DAE /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "DYARippleEffect-DYARippleView";
-			productName = "DYARippleEffect-DYARippleView";
-			productReference = 03A84BEF81509FC1C17062A94F9BAA3B /* DYARippleView.bundle */;
+			name = "DYARippleEffect-DYARippleEffect";
+			productName = "DYARippleEffect-DYARippleEffect";
+			productReference = 0E6E499B7DD743A132CA890924C9E2C5 /* DYARippleEffect.bundle */;
 			productType = "com.apple.product-type.bundle";
 		};
 		56DE026D90728E3D9C51832A70EB94BB /* Pods-DYARippleView_Tests */ = {
@@ -312,7 +312,7 @@
 			);
 			name = "Pods-DYARippleView_Tests";
 			productName = "Pods-DYARippleView_Tests";
-			productReference = CE83B0D0744D23AD2BAC785291C2C487 /* Pods_DYARippleView_Tests.framework */;
+			productReference = 69DBFDA9DD69297CCF4F8BAB69431C6F /* Pods_DYARippleView_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		80496E53069809FE175F5C452BDDDB1A /* Pods-DYARippleView_Example */ = {
@@ -330,26 +330,26 @@
 			);
 			name = "Pods-DYARippleView_Example";
 			productName = "Pods-DYARippleView_Example";
-			productReference = 37BF3BE4F17CD319D2ED0F5B529BA686 /* Pods_DYARippleView_Example.framework */;
+			productReference = E5B16BA59989FD67A254B28BA1B8D09F /* Pods_DYARippleView_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		CBC6C1D330F167B9A3BAF73A72EAC3FC /* DYARippleEffect */ = {
+		B13E8FA97229B0FC721B94613806A496 /* DYARippleEffect */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3F2B7D5C666E3358C92BDDDA496F85AE /* Build configuration list for PBXNativeTarget "DYARippleEffect" */;
+			buildConfigurationList = 7302EAF383A81D125F7AA7DFF2D7DC13 /* Build configuration list for PBXNativeTarget "DYARippleEffect" */;
 			buildPhases = (
-				2764D5EEEE8E9B7BC6389F5387CEE051 /* Sources */,
-				AB2692A009FFCC7AB4364E0821CDD08A /* Frameworks */,
-				76374D91F3CD431A3AA8897991EBE1CB /* Resources */,
-				BBE5589BBF141E7845AE09A9D25618CA /* Headers */,
+				28B18B26FE6D3F84BE020BF3E61A73DD /* Sources */,
+				D64B160245A5E0317EAAC96F2CA62B97 /* Frameworks */,
+				3F3D4F2139328BEE5A57B1F75D572B9F /* Resources */,
+				9BD4D578E78D39399D6F2BEBEF756962 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				7781A6AA2298C45811E7F98C91D92B7A /* PBXTargetDependency */,
+				440CE56A4742D26B01D823B2A3EABDF9 /* PBXTargetDependency */,
 			);
 			name = DYARippleEffect;
 			productName = DYARippleEffect;
-			productReference = A6AFCBA4F2CF6CFC1FA0350278E0300E /* DYARippleEffect.framework */;
+			productReference = 5922EE530EBDEDCF58C2C25D8F886E2F /* DYARippleEffect.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -369,12 +369,12 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 8DCF1546E27CE4054CD741A63A0FADB4 /* Products */;
+			productRefGroup = C1CBD6EB9F261E3D681A09EF87ABDA84 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CBC6C1D330F167B9A3BAF73A72EAC3FC /* DYARippleEffect */,
-				50DE61FA8266FA8320870CF7FAE9BBA6 /* DYARippleEffect-DYARippleView */,
+				B13E8FA97229B0FC721B94613806A496 /* DYARippleEffect */,
+				1405C5A270C280267ECDAF8E08C4D367 /* DYARippleEffect-DYARippleEffect */,
 				80496E53069809FE175F5C452BDDDB1A /* Pods-DYARippleView_Example */,
 				56DE026D90728E3D9C51832A70EB94BB /* Pods-DYARippleView_Tests */,
 			);
@@ -382,15 +382,15 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		76374D91F3CD431A3AA8897991EBE1CB /* Resources */ = {
+		3F3D4F2139328BEE5A57B1F75D572B9F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6BF074AA465523A1C415F02D4F6CB107 /* DYARippleView.bundle in Resources */,
+				381F86AD316CE47F7D4C44950C7D2BEF /* DYARippleEffect.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		847A3C8AC76518A5D3C8600AFA630602 /* Resources */ = {
+		4B09D7E3B4219051269FDC662D798DAE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -408,16 +408,16 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2764D5EEEE8E9B7BC6389F5387CEE051 /* Sources */ = {
+		28B18B26FE6D3F84BE020BF3E61A73DD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18846372C09E938BA74685B5DA9CC5A5 /* DYARippleEffect-dummy.m in Sources */,
-				B84CCD4BF8CAC65E663AB0B7D75C4A9E /* UIView+DYARippleEffect.m in Sources */,
+				F7F74E3CDD1CA670CD23F3C76A5DA632 /* DYARippleEffect-dummy.m in Sources */,
+				F9D33E33BB9A9DF2B9E0577DB44D61FB /* UIView+DYARippleEffect.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		AC510FFD63F9C5C45F4D4BEA31E5755B /* Sources */ = {
+		2F2C3653EC4E3FA3D46C60698870BB81 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -438,19 +438,19 @@
 		1B1A94838EF2D7FBA58B7857D044CCB7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = DYARippleEffect;
-			target = CBC6C1D330F167B9A3BAF73A72EAC3FC /* DYARippleEffect */;
+			target = B13E8FA97229B0FC721B94613806A496 /* DYARippleEffect */;
 			targetProxy = 7D5E2B584C21FC2AC0343C4E37A26AE6 /* PBXContainerItemProxy */;
 		};
-		7781A6AA2298C45811E7F98C91D92B7A /* PBXTargetDependency */ = {
+		440CE56A4742D26B01D823B2A3EABDF9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "DYARippleEffect-DYARippleView";
-			target = 50DE61FA8266FA8320870CF7FAE9BBA6 /* DYARippleEffect-DYARippleView */;
-			targetProxy = 9B002A26B4F22117EB6A4CDE9B28CFC7 /* PBXContainerItemProxy */;
+			name = "DYARippleEffect-DYARippleEffect";
+			target = 1405C5A270C280267ECDAF8E08C4D367 /* DYARippleEffect-DYARippleEffect */;
+			targetProxy = C631027BBD42CA71096AC412AB52FB3B /* PBXContainerItemProxy */;
 		};
 		F630FFB79AFFC65358F6440CFAD12534 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = DYARippleEffect;
-			target = CBC6C1D330F167B9A3BAF73A72EAC3FC /* DYARippleEffect */;
+			target = B13E8FA97229B0FC721B94613806A496 /* DYARippleEffect */;
 			targetProxy = AE3964C961EBB42671DC7D00A7518E16 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -529,6 +529,33 @@
 			};
 			name = Debug;
 		};
+		1B1B718504706F81B13340CC08691ED3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 85DA8B310164010A8FD72A04C887ADCA /* DYARippleEffect.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/DYARippleEffect/DYARippleEffect-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/DYARippleEffect/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/DYARippleEffect/DYARippleEffect.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = DYARippleEffect;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		1C92F32BA77F21A2033B544F680DFF4C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D6AD02EBD8BFA683FE613339199F952A /* Pods-DYARippleView_Example.debug.xcconfig */;
@@ -589,6 +616,18 @@
 			};
 			name = Release;
 		};
+		7BDE058BB4C52E6CF62CA3CC79012DDF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 85DA8B310164010A8FD72A04C887ADCA /* DYARippleEffect.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				PRODUCT_NAME = DYARippleEffect;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
 		824693AC96F3A21647A3DCFB0F25C267 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E59325D883B778E302A50C80829E41C5 /* Pods-DYARippleView_Tests.release.xcconfig */;
@@ -611,60 +650,6 @@
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_NAME = Pods_DYARippleView_Tests;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		865E317F847414BC31B1236D0A7E1503 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 85DA8B310164010A8FD72A04C887ADCA /* DYARippleEffect.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/DYARippleEffect/DYARippleEffect-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/DYARippleEffect/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/DYARippleEffect/DYARippleEffect.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = DYARippleEffect;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		D93719EEA4A6833E3FBB7EB1FDC84F7B /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 85DA8B310164010A8FD72A04C887ADCA /* DYARippleEffect.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/DYARippleEffect/DYARippleEffect-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/DYARippleEffect/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/DYARippleEffect/DYARippleEffect.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = DYARippleEffect;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -703,24 +688,39 @@
 			};
 			name = Debug;
 		};
-		F5F28FD3B63AA34817D642525AF83D50 /* Debug */ = {
+		F15BA32B0121B7AB22EDA39C6724E95C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 85DA8B310164010A8FD72A04C887ADCA /* DYARippleEffect.xcconfig */;
 			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = DYARippleView;
+				GCC_PREFIX_HEADER = "Target Support Files/DYARippleEffect/DYARippleEffect-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/DYARippleEffect/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/DYARippleEffect/DYARippleEffect.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = DYARippleEffect;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
-		F7F0E4552F7608E1CCFB623C90C0DFD5 /* Release */ = {
+		FC90329CCF06DD361F9846E8798F7040 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 85DA8B310164010A8FD72A04C887ADCA /* DYARippleEffect.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = DYARippleView;
+				PRODUCT_NAME = DYARippleEffect;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				WRAPPER_EXTENSION = bundle;
@@ -730,15 +730,6 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		075AFD150F807CA8B00A5557E7D94A20 /* Build configuration list for PBXNativeTarget "DYARippleEffect-DYARippleView" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				F5F28FD3B63AA34817D642525AF83D50 /* Debug */,
-				F7F0E4552F7608E1CCFB623C90C0DFD5 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		11FB37D0384BE2EA29B5F6CA333856E6 /* Build configuration list for PBXNativeTarget "Pods-DYARippleView_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -757,11 +748,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3F2B7D5C666E3358C92BDDDA496F85AE /* Build configuration list for PBXNativeTarget "DYARippleEffect" */ = {
+		35730291B934AF6D697F946378D90A50 /* Build configuration list for PBXNativeTarget "DYARippleEffect-DYARippleEffect" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				865E317F847414BC31B1236D0A7E1503 /* Debug */,
-				D93719EEA4A6833E3FBB7EB1FDC84F7B /* Release */,
+				7BDE058BB4C52E6CF62CA3CC79012DDF /* Debug */,
+				FC90329CCF06DD361F9846E8798F7040 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -771,6 +762,15 @@
 			buildConfigurations = (
 				1C92F32BA77F21A2033B544F680DFF4C /* Debug */,
 				34C262266D3EADEF5406F7E6CC2E2895 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7302EAF383A81D125F7AA7DFF2D7DC13 /* Build configuration list for PBXNativeTarget "DYARippleEffect" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F15BA32B0121B7AB22EDA39C6724E95C /* Debug */,
+				1B1B718504706F81B13340CC08691ED3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

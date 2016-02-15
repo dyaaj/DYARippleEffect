@@ -1,9 +1,9 @@
 {
   "name": "DYARippleEffect",
   "version": "0.1.0",
-  "summary": "A short description of DYARippleEffect.",
+  "summary": "Add a Tinder-like ripple effect to any view.",
   "description": "",
-  "homepage": "https://github.com/dyaaj/DYARippleEffect",
+  "homepage": "https://github.com/dyaaj/DYARippleEffect.git",
   "license": "MIT",
   "authors": {
     "dyaaj": "david.yang.developer@gmail.com"
@@ -18,7 +18,7 @@
   "requires_arc": true,
   "source_files": "Pod/Classes/**/*",
   "resource_bundles": {
-    "DYARippleView": [
+    "DYARippleEffect": [
       "Pod/Assets/*.png"
     ]
   }

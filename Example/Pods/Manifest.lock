@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  DYARippleEffect: 02fbecd4dd4f62a76b921238b057a7fa4d2586b8
+  DYARippleEffect: 463d4ab87715bc0885be9e7359e462db4191aa76
 
 COCOAPODS: 0.39.0

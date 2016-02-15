@@ -35,7 +35,7 @@
                                     <color key="titleColor" red="0.035255087230447811" green="0.14084709193798739" blue="0.45762310606060608" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
-                                    <action selector="buttonTapped:" destination="whP-gf-Uak" eventType="touchUpInside" id="bU3-oP-8mb"/>
+                                    <action selector="buttonTapped:" destination="whP-gf-Uak" eventType="touchUpInside" id="Si7-KC-yTn"/>
                                 </connections>
                             </button>
                         </subviews>
