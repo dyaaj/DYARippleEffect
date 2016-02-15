@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "dyaaj" => "david.yang.developer@gmail.com" }
-  s.source           = { :git => "https://github.com/dyaaj/DYARippleEffect.git", :tag => 0.1.0 }
+  s.source           = { :git => "https://github.com/dyaaj/DYARippleEffect.git", :tag => s.version }
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true

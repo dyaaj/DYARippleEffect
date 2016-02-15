@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '41806EC378B80AABC38BB454'
+               BlueprintIdentifier = '9EF551E9095231AA3FD48E02'
                BlueprintName = 'DYARippleEffect'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'DYARippleEffect.framework'>
